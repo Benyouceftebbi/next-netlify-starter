@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "2ADJ5WMYAN.com.benyoucef.softwaremanagementsystemmvp"
+        ],
+        "components": [
+          {
+            "/": "/two/*",
+            "comment": "Matches any URL whose path starts with /buy/"
+          },
+          {
+            "/": "*",
+            "comment": "Matches any URL whose path starts with /buy/"
+          }
+        ]
+      }
+    ]
+  }
+}
